@@ -1,0 +1,14 @@
+.app {
+  text-align: center;
+  height: 100vh;
+}
+.switch {
+  padding: 1rem;
+  background-color: #1565c0;
+  color: #fff;
+  border: none;
+  outline: none;
+  border-radius: 3px;
+  margin-top: 3em;
+  font-size: 1.2rem;
+}
